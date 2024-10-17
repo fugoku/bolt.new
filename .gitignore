@@ -11,7 +11,6 @@ dist
 dist-ssr
 *.local
 
-.vscode/*
 !.vscode/launch.json
 !.vscode/extensions.json
 .idea
@@ -24,7 +23,10 @@ dist-ssr
 
 /.cache
 /build
-.env*
 *.vars
 .wrangler
 _worker.bundle
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
